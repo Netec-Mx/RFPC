@@ -1,5 +1,7 @@
 <img src="images/neteclogo (2).png" alt="logo" width="300"/>
 
+
+
 # CURSO: Robot Framework Certified Professional
 
 Capacitación práctica para diseñar, implementar, estandarizar y mantener automatizaciones con Robot Framework (QA Automation y RPA), mejorando reutilización, trazabilidad y escalabilidad.
