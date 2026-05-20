@@ -24,22 +24,22 @@ Cada uno de estos laboratorios está diseñado para ofrecerte una experiencia pr
 ### [Práctica 1. flujo E2E web (login, navegación, validaciones)](Capitulo07/README.md#flujo-e2e-web-login-navegación-validaciones)
 
   - Descripción: Actividad práctica guiada basada estrictamente en el contenido del módulo.
-  - ⏱️ **Duración estimada**:: 216 min
+  - ⏱️ **Duración estimada**:: xx min
 
 ### [Práctica 2. suite de pruebas API (smoke/regresión) data-driven](Capitulo08/README.md#suite-de-pruebas-api-smokeregresión-data-driven)
 
   - Descripción: Actividad práctica guiada basada estrictamente en el contenido del módulo.
-  - Duración estimada: 144 min
+  - Duración estimada: xx min
 
 ### [Práctica 3. proceso RPA end-to-end con checklist](Capitulo09/README.md#proceso-rpa-end-to-end-con-checklist)
 
   - Descripción: Actividad práctica guiada basada estrictamente en el contenido del módulo.
-  - ⏱️ **Duración estimada**: 108 min
+  - ⏱️ **Duración estimada**: xx min
 
 ### [Práctica 4. integrador y plan de adopción regional](Capitulo10/README.md#integrador-y-plan-de-adopción-regional)
 
   - Descripción: Actividad práctica guiada basada estrictamente en el contenido del módulo.
-  - ⏱️ **Duración estimada**: 36 min
+  - ⏱️ **Duración estimada**: xx min
 
 ---
 
