@@ -19,7 +19,7 @@ Te damos la bienvenida a la **plataforma de laboratorios Windows** del curso **R
 Cada uno de estos laboratorios está diseñado para ofrecerte una experiencia práctica. Haz clic en los enlaces para comenzar.
 
 
-## Lista de laboratorios
+---
 
 ### [Práctica 1. flujo E2E web (login, navegación, validaciones)](Capitulo07/README.md#flujo-e2e-web-login-navegación-validaciones)
 
