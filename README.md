@@ -32,8 +32,7 @@ Capacitación práctica para diseñar, implementar, estandarizar y mantener auto
   - Descripción: Actividad práctica guiada basada estrictamente en el contenido del módulo.
   - Duración estimada: 36 min
 
-## Flujo de colaboración
+📬 Contacto y más información
+Si tienes alguna pregunta o necesitas más detalles, no dudes en contactarnos. También puedes encontrar más recursos en nuestra página.
 
-- Trabajar en `changes_course`.
-- Crear Pull Request hacia `main`.
-- Merge por `Squash and merge`.
+¡Gracias por visitar nuestra plataforma! No olvides revisar todos los laboratorios y comenzar tu viaje de aprendizaje hoy mismo.
